@@ -2,35 +2,34 @@
 
 ![](./Images/Header_positiveUEFNUtility.png)
 
-UEFNではEditor Utility Widgetが使用できません。UEFNから取得できるテキスト情報を利用したツールを作成しました。
+This is a tool that uses text information obtained from UEFN.
 
 ![](./Images/Image_PositiveUEFNUtility.png)
 
-## 「.NET Framework 4.7.2ランタイム」をインストール
+## Install ".NET Framework 4.7.2 Runtime"
 
-「Positive UEFN Utility」は「.NET Framework 4.7.2」で開発しています。
-「.NET Framework 4.7.2」がインストールされていないと起動しません。「.NET Framework 4.7.2ランタイム」をインストールしてください。
+"Positive UEFN Utility" is developed with ".NET Framework 4.7.2".
+It will not start unless ".NET Framework 4.7.2" is installed. Please install ".NET Framework 4.7.2 Runtime".
 
-[.NET Framework 4.7.2 のダウンロード](https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net472)
+[.NET Framework 4.7.2 のダウンロード](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472)
 
-## 使用方法はEpicのForumページを確認する
+## Check the Epic Forum page for instructions on how to use it.
 
-Forumに使用方法ページを作成しました。
-使用方法ページを随時更新します。
+The owner has created a usage page on the forum and will try update the usage page from time to time.
 
-[ForumのPositive UEFN Utilityの使用方法ページ](https://dev.epicgames.com/community/learning/tutorials/vw41/fortnite-positive-uefn-utility)
+[Forum page on how to use the Positive UEFN Utility](https://dev.epicgames.com/community/learning/tutorials/vw41/fortnite-positive-uefn-utility)
 
-## Discordサーバーを開設
+## Discord server for enquiries
 
-対応Version : 0.2.0
+0.2.0 is the version for enlisting reports from, other versions may or may not be considered.
 
-[Discord](https://discord.gg/WHv8egZnhy)でも「新機能リクエスト」・「バグ・問題報告」をできるようにしました。
+You can now also make "feature requests" and "bug/problem reports" on [Discord](https://discord.gg/WHv8egZnhy).
 
-サーバーに入ったら「ガイドライン」チャンネルを確認してください。
+When you join the server, please check the "Guidelines" channel.
 
 ![](./Images/Image_DiscordServer.png)
 
-Discordサーバにはツールから参加できます。
+You can join the Discord server from the tool using the Discord button.
 
 ![](./Images/Image_DiscordServerInvite.png)
 
